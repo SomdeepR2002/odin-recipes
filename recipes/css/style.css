@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(232, 217, 197, 1);
+    padding-left: 2%;
+    font-size: 20px;
+}
+
+h2{
+    text-decoration-line: underline;
+}
+ul{
+    list-style-type: square;
+}
+
